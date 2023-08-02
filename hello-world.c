@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 void main(){
-    //Imprime "Hello World" na tela
+    //Print "Hello World" on screen
     printf("Hello World");
 }

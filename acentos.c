@@ -3,9 +3,9 @@
 #include <locale.h>
 
 void main(){
-    //Permite usar acentos
+    //Allows to use accents
     setlocale(LC_ALL,"");
 
-    //Imprime "Olá"
+    //Prints "Olá"(Hello)
     printf("Olá");
 }
