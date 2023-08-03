@@ -10,6 +10,6 @@ void main(){
     printf("Digite a segunda nota: ");//Enter the second grade
     scanf("%f", &nota2/*grade2*/);
     media/*average*/ = (nota1/*grade1*/ + nota2/*grade2*/) / 2;
-    printf("A media entre a %f e %f eh: %f", nota1, nota2, media);//The average between %f and %f is
+    printf("A media entre a %f e %f eh: %.2f", nota1, nota2, media);//The average between %f and %f is
 
 }
